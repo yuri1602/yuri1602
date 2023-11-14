@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @yuri1602
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yuri1602/yuri1602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Yuri Metodiev
+- 👀 I’m interested in Networking and Cyber Security.
+- 🌱 I’m currently studying Cyber Security.
+- 🍀 I’m looking to collaborate on internship and junior developer programs.
+- 📫 My email is: juri1602@gmail.com
+- 📱 My LinkedIn is: www.linkedin.com/in/yuri-alexandur
