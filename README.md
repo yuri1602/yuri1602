@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuri Metodiev
-- 👀 I’m interested in Networking and Cyber Security.
-- 🌱 I’m currently studying Cyber Security.
+- 👀 I’m interested in Networking and Cybersecurity.
+- 🌱 I’m currently studying Cybersecurity.
 - 🍀 I’m looking to collaborate on internship and junior developer programs.
 - 📫 My email is: juri1602@gmail.com
 - 📱 My LinkedIn is: www.linkedin.com/in/yuri-alexandur
